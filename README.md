@@ -6,7 +6,7 @@ No packages outside anaconda is nescessary.
 
 
 ### Motivation:
-I have been an Airbnb user for a long time and thus when Udacity provided a challenge to write a blog post, I tried to see that data from an analyst's perspective. 
+I have heard a lot about an Airbnb and thus when Udacity provided a challenge to write a blog post, I tried to see that data from an analyst's perspective. 
 
 I was curious about how we could use data science techniques to find interesting trends in Airbnb data.
 
