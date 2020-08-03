@@ -16,16 +16,6 @@ This project to showcase Data Engineering skills including ETL and ML Pipeline p
     
 3. Go to http://0.0.0.0:3001/
 
-### Example:
-
-
-```python
-python process_data.py disaster_messages.csv disaster_categories.csv DisasterResponse.db
-
-python train_classifier.py ../data/DisasterResponse.db classifier.pkl
-
-python run.py
-```
 
     
 
